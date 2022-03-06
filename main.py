@@ -16,7 +16,7 @@ import string
 from turtle import update
 from telegram import Update
 import cv2 , numpy as np
-from core.init import Effects
+from src.core.init import Effects
 
 Vfx = Effects()
 
